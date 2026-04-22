@@ -36,14 +36,17 @@ Identifying actionable investment signals
 Identify high-performing sectors under tariff pressure
 Detect market overreactions vs real opportunities
 Improve risk-adjusted returns
+
 ⚠️ 2. Risk Management & Volatility Analysis
 Measure shock impact of policy events
 Analyze drawdowns and recovery cycles
 Support hedging strategies
+
 🌍 3. Macro & Economic Intelligence
 Understand trade deficit dynamics
 Detect pre-policy behavioral patterns (front-running)
 Track global economic decoupling
+
 🧠 4. Decision Intelligence
 
 Transforms raw data into:
